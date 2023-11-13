@@ -11,3 +11,4 @@
 + [Обертка строки в тег](https://gist.github.com/Binatik/17f9177fcba1634d4720d725509b115c)
 #### 1.3 
 + [Подсчет букв в строке](https://gist.github.com/Binatik/5f15e705b9568242f9bb8fa377b69fdd)
++ [Подсчет баллов](https://gist.github.com/Binatik/d36fec567b1a917d9c801499c6536926)
