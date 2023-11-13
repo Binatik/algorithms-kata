@@ -12,3 +12,4 @@
 #### 1.3 
 + [Подсчет букв в строке](https://gist.github.com/Binatik/5f15e705b9568242f9bb8fa377b69fdd)
 + [Подсчет баллов](https://gist.github.com/Binatik/d36fec567b1a917d9c801499c6536926)
++ [Arithmetic](https://gist.github.com/Binatik/6035c5b4eb3e05d564ffd14832d62447)
