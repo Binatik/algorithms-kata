@@ -14,4 +14,5 @@
 + [Подсчет баллов](https://gist.github.com/Binatik/d36fec567b1a917d9c801499c6536926)
 + [Arithmetic](https://gist.github.com/Binatik/6035c5b4eb3e05d564ffd14832d62447)
 + [Скобки](https://gist.github.com/Binatik/afafca5b3283115a58da435521fab905)
++ [Поиск по искомому элементу](https://gist.github.com/Binatik/8e391834aadad1a0b4544fbe689582aa)
 + [Replaces](https://gist.github.com/Binatik/351b14a4e119be2c2dab4c6965b6ee33)
