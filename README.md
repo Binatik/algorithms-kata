@@ -19,3 +19,5 @@
 + [Поиск по искомому элементу](https://gist.github.com/Binatik/8e391834aadad1a0b4544fbe689582aa)
 + [Replaces](https://gist.github.com/Binatik/351b14a4e119be2c2dab4c6965b6ee33)
 + [MoveToStart](https://gist.github.com/Binatik/007eb941b83b199a5c85386b44a32aad)
+#### 1.4 
++ [Подсчет суммы рекурсией](https://gist.github.com/Binatik/5cf588e738f1cef2f32593edea3723f4)
