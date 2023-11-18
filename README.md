@@ -21,3 +21,4 @@
 + [MoveToStart](https://gist.github.com/Binatik/007eb941b83b199a5c85386b44a32aad)
 #### 1.4 
 + [Подсчет суммы рекурсией](https://gist.github.com/Binatik/5cf588e738f1cef2f32593edea3723f4)
++ [Рекурсивный обход](https://gist.github.com/Binatik/5695c3f72c5da071027816cd8156d2df)
