@@ -22,3 +22,4 @@
 #### 1.4 
 + [Подсчет суммы рекурсией](https://gist.github.com/Binatik/5cf588e738f1cef2f32593edea3723f4)
 + [Рекурсивный обход](https://gist.github.com/Binatik/5695c3f72c5da071027816cd8156d2df)
++ [Цепочка](https://gist.github.com/Binatik/9e5d4ba5e0bedec4d53c7cb9ad63981a)
