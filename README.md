@@ -25,3 +25,4 @@
 + [Цепочка](https://gist.github.com/Binatik/9e5d4ba5e0bedec4d53c7cb9ad63981a)
 + [Callback](https://gist.github.com/Binatik/35f28738f6b837468f6c0038818d425a)
 + [CreateObjectCalculator](https://gist.github.com/Binatik/4ffa526d3c48f651b08fc218b801c7a0)
++ [Создать пользователя](https://gist.github.com/Binatik/cee6f6e5fcab1a9b06fd70aef36a219c)
