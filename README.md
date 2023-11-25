@@ -29,3 +29,4 @@
 + [Создать пользователя](https://gist.github.com/Binatik/cee6f6e5fcab1a9b06fd70aef36a219c)
 #### 2.2
 + [Сумма](https://gist.github.com/Binatik/77c043b98f3edd71485c0c9535183c89)
++ [Cумма комментариев](https://gist.github.com/Binatik/6d0bc735a3afc03463cba005fa2aae74)
