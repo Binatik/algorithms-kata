@@ -31,6 +31,7 @@
 + [Сумма](https://gist.github.com/Binatik/77c043b98f3edd71485c0c9535183c89)
 + [Cумма комментариев](https://gist.github.com/Binatik/6d0bc735a3afc03463cba005fa2aae74)
 + [Глубокое сравнение](https://gist.github.com/Binatik/3ce0242a6d83aff25fbdec91b2cbaa96)
++ [Дни между датами](https://gist.github.com/Binatik/37ee2de7681b73bf39f6fc87959c8774)
 
 #### 2.3 
 + [isEmptyWithProtos](https://gist.github.com/Binatik/3a3abc87cb7628706e75a3576f387519)
