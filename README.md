@@ -32,9 +32,9 @@
 + [Cумма комментариев](https://gist.github.com/Binatik/6d0bc735a3afc03463cba005fa2aae74)
 + [Глубокое сравнение](https://gist.github.com/Binatik/3ce0242a6d83aff25fbdec91b2cbaa96)
 + [Дни между датами](https://gist.github.com/Binatik/37ee2de7681b73bf39f6fc87959c8774)
-+ [Полифл Object.create.](https://gist.github.com/Binatik/5ca08c03a336875126ea828e5a1dd91d)
 
 #### 2.3 
 + [isEmptyWithProtos](https://gist.github.com/Binatik/3a3abc87cb7628706e75a3576f387519)
 + [Library](https://gist.github.com/Binatik/1890bee99d9811d554d957215a4f2d6c)
 + [Decorator](https://gist.github.com/Binatik/870f4e5a721a7385a1cb87e3331e2858)
++ [Полифл Object.create.](https://gist.github.com/Binatik/5ca08c03a336875126ea828e5a1dd91d)
