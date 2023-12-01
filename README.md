@@ -36,3 +36,4 @@
 #### 2.3 
 + [isEmptyWithProtos](https://gist.github.com/Binatik/3a3abc87cb7628706e75a3576f387519)
 + [Library](https://gist.github.com/Binatik/1890bee99d9811d554d957215a4f2d6c)
++ [Decorator](https://gist.github.com/Binatik/870f4e5a721a7385a1cb87e3331e2858)
