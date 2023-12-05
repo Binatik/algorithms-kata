@@ -40,3 +40,4 @@
 + [Полифл Object.create.](https://gist.github.com/Binatik/5ca08c03a336875126ea828e5a1dd91d)
 + [Банкомат](https://gist.github.com/Binatik/6a58c34b7795c96423153ec72d9fd5ec)
 + [Калькулятор на классах](https://gist.github.com/Binatik/12daeefcad0e8b9fcfa9e6fa3bcc3b5a)
++ [Транслятор](https://gist.github.com/Binatik/c7236cfc9581776ee81a4f390e4c9e9c)
