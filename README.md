@@ -44,3 +44,4 @@
 
 #### 3.2
 + [Счетчик](https://gist.github.com/Binatik/4292f34ce5acfeea1c59bc11543051f8)
++ [Обработка исключений](https://gist.github.com/Binatik/fef2fa6c13b7c5c0afb664b9bf80adf7)
