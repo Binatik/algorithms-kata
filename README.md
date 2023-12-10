@@ -46,3 +46,5 @@
 + [Счетчик](https://gist.github.com/Binatik/4292f34ce5acfeea1c59bc11543051f8)
 + [Обработка исключений](https://gist.github.com/Binatik/fef2fa6c13b7c5c0afb664b9bf80adf7)
 + [applyFn](https://gist.github.com/Binatik/0554df3e3acf83e2f79def4b0beb17b3)
+====null
++ [Повышение зарплаты](https://gist.github.com/Binatik/67123a35ecc171c8aee31de3e18c7d0d)
