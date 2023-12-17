@@ -50,3 +50,4 @@
 ====null
 
 + [Повышение зарплаты](https://gist.github.com/Binatik/67123a35ecc171c8aee31de3e18c7d0d)
++ [Повышение зарплат update](https://gist.github.com/Binatik/0fb2a90197572f65e683a0bcfaafc607)
